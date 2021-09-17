@@ -1,3 +1,5 @@
+This is the third project in the "Front End Web Development Advanced" Nanodegree from Udacity, sponsored by the Ministry of Communications and Information Technology of Egypt. You can view my certificate [here](https://graduation.udacity.com/confirm/DNG9L9CK).
+
 # Would You Rather...?
 
 **Would You Rather...?** is a web application that lets you play the “Would You Rather?“ game. The game goes like this: A user is asked a question in the form: “Would you rather [*option A*] or [*option B*]?”. Answering "neither" or "both" is against the rules.
@@ -14,9 +16,9 @@ Using the application, you can:
 
 Before proceeding, please make sure that the following tools are installed on your machine:
 
-- Git
+- [Git](https://git-scm.com/)
 
-- Node.js
+- [Node.js](https://nodejs.org/)
 
 Please follow the following steps to run the web application on your machine:
 
@@ -32,5 +34,5 @@ Run ```npm install``` in the repository's root directory to install the needed d
 
 Run ```npm start``` in the repository's root directory to start the application on your machine.
 
-Go to <localhost:3000> to launch the application.
+Go to [localhost:3000](http://localhost:3000) to launch the application.
 
